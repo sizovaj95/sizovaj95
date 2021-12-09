@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sizovaj95
+- 👋 Hi, I’m Julia
 - 👀 I’m interested in programming, Data Science
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
