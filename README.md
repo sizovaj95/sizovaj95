@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Julia
-- 👀 I’m interested in programming, Data Science
+- 👀 I’m interested in Data Science, programming and software development and security.
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/julia-sizova-85b807157
 
 <!---
 sizovaj95/sizovaj95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
